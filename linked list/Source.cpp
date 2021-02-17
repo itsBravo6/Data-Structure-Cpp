@@ -87,7 +87,7 @@ int main()
 	A.add(5);
 	A.add(6);
 	A.add(7);
-
+	cout<<endl;
 	A.print(A.head,0);
 
 	
